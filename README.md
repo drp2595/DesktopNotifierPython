@@ -8,6 +8,7 @@ The excel sheet I have used has three column for hour,minute and second to easil
 Install following libraries to avoid module errors.
 
 pip3 install plyer
+
 pip3 install pause
 
 below is reference image of sheet I used for testing.
